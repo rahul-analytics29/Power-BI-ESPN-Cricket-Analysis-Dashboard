@@ -30,5 +30,5 @@ _**Tools & Technologies Used:**_
 
 **Web Scrapping / Data Sources** – Raw ESPN cricket data https://stats.espncricinfo.com/ci/engine/stats/index.html
 
-DAX Measures – Performance KPIs, win rates, and ranks.
+**DAX Measures** – Performance KPIs, win rates, and ranks.
 
