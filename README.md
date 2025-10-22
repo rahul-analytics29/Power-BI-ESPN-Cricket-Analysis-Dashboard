@@ -1,4 +1,5 @@
-# Power-BI-ESPN-Cricket-Analysis-Dashboard
+# Power-BI-ESPN-Cricket-Analysis-Reports
+
 **_Project Story_**
 
 This project dives deep into ESPN’s cricket match data, transforming raw numbers into meaningful insights through Power BI’s interactive visual storytelling.
